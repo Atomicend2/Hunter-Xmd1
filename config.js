@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY ATOMICEND-XMD🤍*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
@@ -23,13 +23,13 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://res.cloudinary.com/dgy2dutjs/image/upload/v1751656256/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_xyfpby.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ibb.co/WWQyWkQZ",
 // add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓",
+BOT_NAME: process.env.BOT_NAME || "ATOMICEND BOT",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓",
+STICKER_NAME: process.env.STICKER_NAME || "ATOMICEND BOT",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -41,11 +41,11 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "2347056705430",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "Atomic",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴏʙᴇᴅᴛᴇᴄʜ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© Atomic*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/z62ts0.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/WWQyWkQZ",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *ATOMICEND-XMD *⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
