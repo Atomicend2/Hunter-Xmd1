@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254701082940']
+  const ownerNumber = ['2347056705430']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -112,22 +112,22 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ 𝙷𝙴𝙻𝙻𝙾𝚆 𝙷𝚄𝙽𝚃𝙴𝚁 𝚇𝙼𝙳.𝟻 𝙻𝙴𝙶𝙴𝙽𝙳𝚂! ✨*
+  let up = `*✨ 𝙷𝙴𝙻𝙻𝙾 Atomicend  𝙻𝙴𝙶𝙴𝙽𝙳𝚂! ✨*
 
-╭─〔 *💻 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿.5 𝘽𝙊𝙏* 〕  
+╭─〔 *💻 Atomicend 𝘽𝙊𝙏* 〕  
 ├─▸ *𝕤𝕚𝕞𝕡𝕝𝕚𝕔𝕚𝕥𝕪. 𝕤𝕡𝕖𝕖𝕕. 𝕡𝕠𝕨𝕖𝕣𝕖𝕕 . 𝕓𝕪 ᴏʙᴇᴅᴛᴇᴄʜ |*  
-╰─➤ *𝕐𝕠𝕦𝕣 ℕ𝕖𝕨 𝕎𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝕤𝕚𝕕𝕖𝕜𝕚𝕔𝕜 𝕚𝕤 𝕙𝕖𝕣𝕖!*
+╰─➤ *𝕐𝕠𝕦𝕣 ℕ𝕖𝕨 Atomic sidekick 𝕚𝕤 𝕙𝕖𝕣𝕖!*
 
-*❤️ 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕙𝕠𝕠𝕤𝕚𝕟𝕘 𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓!*
+*❤️ 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕙𝕠𝕠𝕤𝕚𝕟𝕘 Atomicend!*
 
 ╭──〔 🔗 *𝕢𝕦𝕚𝕔𝕜 𝕝𝕚𝕟𝕜𝕤* 〕  
-├─ 📢 *𝕛𝕠𝕚𝕟 𝕠𝕦𝕣 𝕔𝕙𝕒𝕟𝕟𝕖𝕝:*  
-│   Click [*ℍ𝕖𝕣𝕖*](https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y) to join!  
+├─ 📢 *𝕛𝕠𝕚𝕟 𝕠𝕦𝕣 group chat:*  
+│   Click [*ℍ𝕖𝕣𝕖*](https://whatsapp.com/channel/0029Vb6IOMqCsU9X6cLije1J) to join!  
 ├─ ⭐ *𝔾𝕚𝕧𝕖 𝕦𝕤 𝕤𝕥𝕒𝕣:*  
-│   𝕊𝕥𝕒𝕣 𝕦𝕤 [*ℍ𝕖𝕣𝕖*](https://github.com/Obedweb/HUNTER XMD)!  
+│   𝕊𝕥𝕒𝕣 𝕦𝕤 [*ℍ𝕖𝕣𝕖*](https://github.com/Atomicend/HUNTER XMD)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
-> _© 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙾𝙱𝙴𝙳𝚃𝙴𝙲𝙷 _`;
+> _© 𝙼𝙰𝙳𝙴 𝙱𝚈 Atomic _`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/mw1loa.jpg` }, caption: up })
   }
   })
@@ -783,7 +783,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send(" 𝑯𝑼𝑵𝑻𝑬𝑹 𝑿𝑴𝑫.5 𝑰𝑺 𝑺𝑻𝑨𝑹𝑻𝑬𝑫 ✅");
+  res.send(" Atomicend 𝑰𝑺 𝑺𝑻𝑨𝑹𝑻𝑬𝑫 ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
