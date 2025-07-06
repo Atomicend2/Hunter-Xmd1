@@ -1,7 +1,7 @@
 {
-  "name": "HUNTER XMD",
+  "name": "ATOMICEND XMD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By Hunterxmd",
+  "description": "A WhatsApp Bot Created By Atomic",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name CRISS-AI",
