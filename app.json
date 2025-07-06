@@ -1,8 +1,8 @@
 {
-  "name": "𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓",
-  "description": "Javascript WhatsApp bot made by ᴏʙᴇᴅᴛᴇᴄʜ",
-  "logo": "https://res.cloudinary.com/dgy2dutjs/image/upload/v1751656256/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_xyfpby.jpg",
-  "keywords": ["HUNTER-XMD.5"],
+  "name": "ATOMICEND 𝐗𝐌𝐃",
+  "description": "Javascript WhatsApp bot made by Atomic",
+  "logo": "https://ibb.co/WWQyWkQZ",
+  "keywords": ["ATOMICEND-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -10,25 +10,25 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "HUNTER-XMD~x30kkShD#A0CkVWg6sTLNY5cPRhGmzRFWGaWscYyRBve_8eQ-Dis"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓"
+      "value": "Atomicend"
     }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "!"
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝚂𝙴𝙴𝙽 𝚈𝙾𝚄𝚁 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝚈 𝙷𝚄𝙽𝚃𝙴𝚁-𝚇𝙼𝙳.𝟻 💟*"
+      "value": "*𝚂𝙴𝙴𝙽 𝚈𝙾𝚄𝚁 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝚈 Atomicend 💟*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴏʙᴇᴅᴛᴇᴄʜ"
+      "value": "Atomic"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254794146821"
+      "value": "2347056705430"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓"
+      "value": "ATOMICEND-XMD"
 
       }, 
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/11w56r.jpg"
+      "value": "https://ibb.co/WWQyWkQZ"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴏʙᴇᴅᴛᴇᴄʜ*"
+      "value": "*© ATOMIC ⚛️*"
     },
 
       "DELETE_LINKS": {
