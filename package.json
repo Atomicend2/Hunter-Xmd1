@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name CRISS-AI",
-    "stop": "pm2 stop HUNTER-XMD",
-    "restart": "pm2 restart HUNTER-XMD"
+    "stop": "pm2 stop ATOMICEND-XMD",
+    "restart": "pm2 restart ATOMICEND-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
